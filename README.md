@@ -1,6 +1,6 @@
 # Stack
 
- - Django, Flask, Docker(mysql), RabbitMQ
+ - Django, Docker(mysql), RabbitMQ
 
 # ETC
 
