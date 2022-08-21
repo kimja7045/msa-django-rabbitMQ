@@ -13,4 +13,4 @@ channel = connection.channel()
 
 # publish=producer, 메시지를 어디로 전달시킬것인지
 def publish():
-    channel.basic_publish(exchange='', routing_key='order', body='hello')
+    channel.basic_publish(exchange='', routing_key='boss', body='hello')
